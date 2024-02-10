@@ -1,1 +1,2 @@
-Master branch, 1. commit | "B branch m�dos�t�s"
+Master branch, 1. commit | Először a "B branch módosítás"
+Majd a "C branch módosítás"
